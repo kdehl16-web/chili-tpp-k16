@@ -1,6 +1,6 @@
-# chili-tpp
+# chili-tpp-k16
 
-'chili-tpp' is a fan continuation of The Preservation Project, which aims to improve the hack's overall accuracy as well as continuing its legacy.
+'chili-tpp-k16' is a fan continuation of chili-tpp, which aims to improve the hack's overall accuracy as well as continuing its legacy.
 
 ## Credits
 
