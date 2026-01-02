@@ -64,6 +64,6 @@
 
 *Diamond Hero*
 
-*'K-Dubs'*
+*`K-Dubs΄΄΄*
 
 ### Original Super Mario 64 Decompilation Team
